@@ -31,3 +31,7 @@ $ python Assignment_Data_Engineer_1.py
 Time taken to run timed_sum_integers: 0.0 seconds
 15
 15
+
+
+# License
+This project is licensed under the MIT License.
